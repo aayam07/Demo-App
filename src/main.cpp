@@ -40,6 +40,8 @@ int main()
 
     cout << "High guys";
 
+    cout << "High-Five";
+
 
 }
 
